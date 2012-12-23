@@ -1,0 +1,12 @@
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\ResolveAssemblyReference.cache
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\_300113109_DiceGame_A2.DiceGameMainForm.resources
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\_300113109_DiceGame_A2.Properties.Resources.resources
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\300113109_DiceGame_A2.csproj.GenerateResource.Cache
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\_300113109_DiceGame_A2.SummaryForm.resources
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\_300113109_DiceGame_A2.AboutBox1.resources
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\bin\Debug\300113109_DiceGame_A2.exe
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\bin\Debug\300113109_DiceGame_A2.pdb
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\300113109_DiceGame_A2.exe
+D:\ViStudioProjects\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\300113109_DiceGame_A2.pdb
+D:\ViStudioProjects\assignment\02\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\300113109_DiceGame_A2.exe
+D:\ViStudioProjects\assignment\02\300113109_DiceGame_A2\300113109_DiceGame_A2\obj\Debug\300113109_DiceGame_A2.pdb

@@ -1,0 +1,14 @@
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\bin\Debug\INFO241A2.exe
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\bin\Debug\INFO241A2.pdb
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.mainForm.resources
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.Properties.Resources.resources
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.csproj.GenerateResource.Cache
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.exe
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.pdb
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.AdminAuthenticationForm.resources
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.NewPuzzleForm.resources
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\bin\Debug\INFO241A2.exe.config
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.ChoosePuzzleForm.resources
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.PlayForm.resources
+C:\Documents and Settings\katze\My Documents\Visual Studio 2008\Projects\INFO241A2\INFO241A2\obj\Debug\INFO241A2.RankingForm.resources
